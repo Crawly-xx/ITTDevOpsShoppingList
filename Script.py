@@ -1,5 +1,3 @@
-import sys
-
 # Open the file for reading and writing
 file = open("list.txt", "r+")
 
